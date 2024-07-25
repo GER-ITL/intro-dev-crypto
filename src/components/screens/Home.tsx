@@ -1,10 +1,11 @@
+import '../../assets/styles/index.scss'
 import Layout from '../layout/Layout'
 
 function Home() {
 	return (
 		<>
 			<Layout heading='Home'>
-				<div>Body</div>
+				<div></div>
 			</Layout>
 		</>
 	)
